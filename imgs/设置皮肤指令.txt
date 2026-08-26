@@ -1,0 +1,1 @@
+上线自己输入/skin set "https://raw.githubusercontent.com/MGTown/skin-cdn/main/imgs/名称.png"
