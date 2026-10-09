@@ -1,1 +1,1 @@
-上线自己输入/skin set "https://raw.githubusercontent.com/MGTown/skin-cdn/main/imgs/id.png"
+上线自己输入/skin url "https://raw.githubusercontent.com/MGTown/skin-cdn/main/imgs/id.png"
